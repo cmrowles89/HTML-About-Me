@@ -1,0 +1,19 @@
+body {
+  background-color: #faf3e0 ;
+  font-family: 'Indie Flower', cursive;
+
+
+}
+
+.text-align-center {
+  text-align: center;
+}
+
+img {
+  width: 55%;
+  height: auto;
+  padding: 20px;
+  border: 5px;
+  border-radius: 85%;
+
+}
